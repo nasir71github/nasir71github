@@ -39,11 +39,14 @@ The objective of this project was to design and configure a personal cybersecuri
 | bWAPP            | Vulnerable Web Application  | `192.168.56.103` | Host-Only          | <img src="../../assets/images/bwapp IP.jpg" alt="IP address snippet" height="100" /> |  
 | Windows 10       | User Workstation Simulation | `192.168.56.104` | Host-Only          | <img src="../../assets/images/windows IP.png" alt="IP address snippet" height="100" /> |  
 
+---
 
 **Verification Steps**:  
 - Configured static IPs manually on each VM.  
 - Confirmed all machines are on the same subnet (`192.168.56.0/24`).  
 - Tested connectivity between machines using `ping`.  
+- Verified Kali Linux’s additional NAT adapter (`10.0.3.15`) provides internet access (e.g., updating packages, testing BurpSuite).  
+
 
 ---
 # 🧠 Learning & Reflection  
