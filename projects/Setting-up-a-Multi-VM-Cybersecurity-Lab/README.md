@@ -1,45 +1,61 @@
-# Detection Lab
+# 🖥️ Cybersecurity Home Lab  
 
-## Objective
-The **Detection Lab** project was designed to build a controlled environment for **simulating and detecting cyberattacks**.  
-Its primary purpose was to:
-- Ingest and analyze logs using a **SIEM (Security Information and Event Management)** system.
-- Generate test telemetry to mimic **real-world attack scenarios**.
-- Strengthen understanding of network security, attack patterns, and defensive strategies.
+## 🎯 Title & Objective  
+**VirtualBox-Based Cybersecurity Lab Setup**  
+The objective of this project was to design and configure a personal cybersecurity home lab in a safe, isolated environment. The lab demonstrates how to set up multiple virtual machines with proper network segmentation and **static IP addressing**, providing a stable foundation for security research and training.  
 
 ---
 
-### Skills Learned
-- Practical knowledge of **SIEM implementation and configuration**.
-- Ability to **analyze and interpret logs** for potential security incidents.
-- Experience in generating and detecting **attack signatures and patterns**.
-- Improved understanding of **network protocols and common vulnerabilities**.
-- Enhanced **critical thinking and problem-solving skills** in cybersecurity operations.
+## 🛠️ Tools + Technologies  
+
+- **Virtualization Platform**: Oracle VirtualBox  
+- **Virtual Machines**:  
+  - Kali Linux (security tools)  
+  - Metasploitable 2 (vulnerable Linux server)  
+  - bWAPP (buggy web application running on a LAMP stack)  
+  - Windows 10 (standard workstation simulation)  
+- **Networking**: VirtualBox **Host-Only Adapter** with manually assigned **static IP addresses**  
 
 ---
 
-### Tools Used
-- **SIEM platform** (e.g., Splunk or ELK Stack) for log ingestion and analysis.
-- **Wireshark** for network traffic capture and packet analysis.
-- **Attack simulation tools** (like Metasploit or custom scripts) for generating telemetry.
-- **Virtualization environment** (VirtualBox/VMware) to host isolated lab systems.
+## 🔎 High-Level Methodology  
+
+| Step | Description | Notes |  
+|------|-------------|-------|  
+| **1. Virtualization Setup** | Installed and configured VirtualBox on the host machine. Created a **Host-Only Network** to ensure traffic is isolated from the internet while allowing inter-VM communication. | VirtualBox networking knowledge applied |  
+| **2. VM Deployment** | Installed Kali Linux, Metasploitable 2, bWAPP, and Windows 10 as guest virtual machines. Configured system resources (CPU, RAM, storage) based on host capacity. | Adjusted resources based on host performance |  
+| **3. Static IP Configuration** | Disabled DHCP for the host-only adapter. Assigned **static IP addresses** to each VM within the subnet `192.168.56.0/24`. Verified communication across all systems using `ping`, `ipconfig`, and `ifconfig`. | Ensured consistency and avoided IP conflicts |  
 
 ---
 
-## Steps and Documentation
-| Step | Description | Screenshot Reference |
-|-------|-------------|----------------------|
-| **1. Network Setup** | Designed and deployed a virtual lab network environment with multiple nodes. | *Ref 1: Network Diagram* |
-| **2. SIEM Integration** | Configured log sources and ingested event data into the SIEM. | *Ref 2: SIEM Dashboard* |
-| **3. Attack Simulation** | Generated realistic attack traffic for detection exercises. | *Ref 3: Telemetry Generation* |
-| **4. Detection and Analysis** | Identified and analyzed malicious patterns and alerts triggered in the SIEM. | *Ref 4: Alert Dashboard* |
+## 📊 Network & IP Configuration  
 
-> Drag and drop your screenshots into this section, or upload them to **Imgur** or your GitHub `assets` folder, and replace the placeholders with actual `img src` links.
+| Virtual Machine  | Role / Purpose              | Static IP Address | Network Mode  | Notes |  
+|------------------|-----------------------------|------------------|---------------|-------|  
+| Kali Linux       | Attacker / Security Tools   | `192.168.56.101` | Host-Only     | Used for scanning and validation |  
+| Metasploitable 2 | Vulnerable Linux Target     | `192.168.56.102` | Host-Only     | Legacy services, vulnerable OS |  
+| bWAPP            | Vulnerable Web Application  | `192.168.56.103` | Host-Only     | OWASP Top 10 testing platform |  
+| Windows 10       | User Workstation Simulation | `192.168.56.104` | Host-Only     | Simulated end-user environment |  
+
+**Verification Steps**:  
+- Configured static IPs manually on each VM.  
+- Confirmed all machines are on the same subnet (`192.168.56.0/24`).  
+- Tested connectivity between machines using `ping`.  
 
 ---
 
-### Example Screenshot Format:
-```markdown
-*Ref 1: Network Diagram*
-<img src="https://your-image-link-here.png" width="600" alt="Network Diagram" />
+## 🧠 Learning & Reflection  
 
+- **Learning Journey**: Configuring static IPs gave me more control and stability compared to dynamic allocation. Each machine retained its address across reboots, which made management easier.  
+- **Challenges Faced**:  
+  - Initially setting correct subnet masks and gateways for consistency  
+  - Conflict Between DHCP/NetworkManager and Static IP Configuration(had to restart the kali machine for the changes to reflect).  
+- **Key Takeaway**: Static IP assignment is more reliable for multi-VM labs since it simplifies repeatability, documentation, and troubleshooting.  
+
+---
+You can find all the images for this project here
+ 
+---
+This documentation highlights my ability to design and configure a multi-VM lab environment with **static IP networking**, an essential foundation for more advanced cybersecurity practice.  
+
+---
