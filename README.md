@@ -18,7 +18,7 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
 
 ---
 
-## 🛠 Skills & Related Projects
+## 🛠 Skills & Related Projects/labs
 | Skill                                         | Associated Project |
 |-----------------------------------------------|--------------------|
 | **Vulnerability Scanning & Open Port Analysis** | [Lab: Nmap & OpenVAS Scans](https://github.com/nasir71github/sample-projects/tree/main) |
