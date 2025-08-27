@@ -32,10 +32,10 @@ The objective of this project was to design and configure a personal cybersecuri
 
 | Virtual Machine  | Role / Purpose              | Static IP Address | Network Mode  | Notes |  
 |------------------|-----------------------------|------------------|---------------|-------|  
-| Kali Linux       | Attacker / Security Tools   | `192.168.56.101` | Host-Only     | <img src="../../assets/images/kali IP.png" alt="IP adrress snippet" height="100" />|  
-| Metasploitable 2 | Vulnerable Linux Target     | `192.168.56.102` | Host-Only     | <img src="../../assets/images/metasploit IP.png" alt="IP adrress snippet" height="100" /> |  
-| bWAPP            | Vulnerable Web Application  | `192.168.56.103` | Host-Only     | <img src="../../assets/images/bwapp IP.png" alt="IP adrress snippet" height="100" /> |  
-| Windows 10       | User Workstation Simulation | `192.168.56.104` | Host-Only     | <img src="../../assets/images/windowa IP.png" alt="IP adrress snippet" height="100" /> |  
+| Kali Linux       | Attacker / Security Tools   | `192.168.56.101` | Host-Only     | <img src="../../assets/images/Kali IP.png" alt="IP adrress snippet" height="100" />|  
+| Metasploitable 2 | Vulnerable Linux Target     | `192.168.56.102` | Host-Only     | <img src="../../assets/images/metasploit IP.jpg" alt="IP adrress snippet" height="100" /> |  
+| bWAPP            | Vulnerable Web Application  | `192.168.56.103` | Host-Only     | <img src="../../assets/images/bwapp IP.jpg" alt="IP adrress snippet" height="100" /> |  
+| Windows 10       | User Workstation Simulation | `192.168.56.104` | Host-Only     | <img src="../../assets/images/windows IP.png" alt="IP adrress snippet" height="100" /> |  
 
 **Verification Steps**:  
 - Configured static IPs manually on each VM.  
