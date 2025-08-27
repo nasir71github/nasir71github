@@ -70,8 +70,7 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
 
 ## 🚀 Featured Projects
 - **[Vulnerability Scanning Lab](https://github.com/nasir71github/sample-projects/tree/main)** – Practiced Nmap, OpenVAS, and reporting vulnerabilities.  
-- **[Web Application Security Testing](https://github.com/nasir71github/sample-projects/tree/main)** – Tested OWASP Top 10 vulnerabilities in a safe lab setup.  
-- **[Cybersecurity Portfolio](https://nasir71github.github.io/)** – My personal site showcasing labs, documentation, and learning progress.  
+
 
 
 
@@ -80,4 +79,5 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
 ## 📫 Contact Me
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/233598364638)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/emmanuel-akrofi-9753a52ab)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:emmanuelakrofi71@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/nasir71github)
