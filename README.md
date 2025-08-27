@@ -51,13 +51,6 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
 
 </div>
 
-## 🔧 Reports
-<div>
-  -**Reports on pentest i did o DVWA
-  -**Reports on vulberability scanning
-</div>
-
-
 ---
 
 ## 📜 Certifications (Planned & In Progress)
