@@ -2,7 +2,8 @@
 
 ## 🎯 Title & Objective  
 **VirtualBox-Based Cybersecurity Lab Setup**  
-The objective of this project was to design and configure a personal cybersecurity home lab in a safe, isolated environment. The lab demonstrates how to set up multiple virtual machines with proper network segmentation and **static IP addressing**, providing a stable foundation for security research and training.  
+The objective of this project was to design and configure a personal cybersecurity home lab in a safe, isolated environment. The lab demonstrates how to set up multiple virtual machines with proper network segmentation, **static IP addressing**, and a dual-network setup where Kali Linux has both **Host-Only** (for lab traffic) and **NAT** (for internet access). This provides a stable foundation for security research and training.  
+
 
 ---
 
@@ -12,9 +13,10 @@ The objective of this project was to design and configure a personal cybersecuri
 - **Virtual Machines**:  
   - Kali Linux (security tools)  
   - Metasploitable 2 (vulnerable Linux server)  
-  - bWAPP (buggy web application running on a LAMP stack)  
+  - bWAPP (buggy web application)  
   - Windows 10 (standard workstation simulation)  
-- **Networking**: VirtualBox **Host-Only Adapter** with manually assigned **static IP addresses**  
+  - **Networking**: VirtualBox **Host-Only Adapter** with manually assigned **static IP addresses** for all VMs.  
+     - Kali Linux additionally uses a **NAT adapter** (`10.0.3.15`) to provide safe internet access for tools like BurpSuite, while other machines remain isolated on the Host-Only network.  
 
 ---
 
