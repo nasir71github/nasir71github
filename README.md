@@ -18,13 +18,12 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
 
 ---
 
-## 🛠 Skills & Related Projects/labs
-| Skill                                         | Associated Project/lab |
+## 🛠 Skills & Related Projects  
+| Skill                                         | Associated Project |
 |-----------------------------------------------|--------------------|
-| **Vulnerability Scanning & Open Port Analysis** | [Lab: Nmap & OpenVAS Scans](https://github.com/nasir71github/sample-projects/tree/main) |
-| **Web Application Security Testing**          | [Lab: OWASP Top 10 Demos](https://github.com/nasir71github/sample-projects/tree/main) |
-| **Network Traffic Monitoring & Packet Analysis** | Wireshark Packet Capture Project (coming soon) |
-| **Documentation & Reporting**                 | [Write-up Repository](https://github.com/nasir71github/sample-projects/tree/main) |
+| **Vulnerability Scanning & Open Port Analysis** | [Cybersecurity Home Lab Project](https://github.com/nasir71github/sample-projects/tree/main) |
+
+
 
 ---
 
@@ -55,14 +54,13 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
 
 ## 📜 Certifications (Planned & In Progress)
 <div>
-    <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CompTIA_Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
 </div>
 
 ---
 
 ## 🚀 Featured Projects
-- **[Vulnerability Scanning Lab](https://github.com/nasir71github/sample-projects/tree/main)** – Practiced Nmap, OpenVAS, and reporting vulnerabilities.  
+- **[Cybersecurity Home Lab Project](https://github.com/nasir71github/sample-projects/tree/main)** – Built a multi-VM VirtualBox lab for safe cybersecurity testing.  
 
 
 
