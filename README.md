@@ -60,7 +60,7 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
 ---
 
 ## 🚀 Featured Projects
-- **[Cybersecurity Home Lab Project](https://github.com/nasir71github/sample-projects/tree/main)** – Built a multi-VM VirtualBox lab for safe cybersecurity testing.  
+- **[Cybersecurity Home Lab Project](projects/Setting-up-a-Multi-VM-Cybersecurity-Lab/)** – Built a multi-VM VirtualBox lab for safe cybersecurity testing.  
 
 
 
