@@ -69,7 +69,7 @@ The objective of this project was to design and configure a personal cybersecuri
 
 
 ---
-You can find all the images for this project here
+📂 **Note**: All images associated with this lab setup can be found in the [images folder](../../assets/images/).  
  
 ---
 This documentation highlights my ability to design and configure a multi-VM lab environment with **static IP networking**, an essential foundation for more advanced cybersecurity practice.  
