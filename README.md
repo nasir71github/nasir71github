@@ -21,7 +21,7 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
 ## 🛠 Skills & Related Projects  
 | Skill                                         | Associated Project |
 |-----------------------------------------------|--------------------|
-| **Setting-up-a-Multi-VM-Cybersecurity-Lab** | [Cybersecurity Home Lab Project](https://github.com/nasir71github/sample-projects/tree/main) |
+| **Setting-up-a-Multi-VM-Cybersecurity-Lab** | [Cybersecurity Home Lab Project](projects/Setting-up-a-Multi-VM-Cybersecurity-Lab/) |
 
 
 
