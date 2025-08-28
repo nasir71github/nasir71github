@@ -22,11 +22,14 @@ The objective of this project was to design and configure a personal cybersecuri
 
 ## 🔎 High-Level Methodology  
 
-| Step | Description | Notes |  
-|------|-------------|-------|  
-| **1. Virtualization Setup** | Installed and configured VirtualBox on the host machine. Created a **Host-Only Network** to ensure traffic is isolated from the internet while allowing inter-VM communication. | VirtualBox networking knowledge applied |  
-| **2. VM Deployment** | Installed Kali Linux, Metasploitable 2, bWAPP, and Windows 10 as guest virtual machines. Configured system resources (CPU, RAM, storage) based on host capacity. | Adjusted resources based on host performance |  
-| **3. Static IP Configuration** | Disabled DHCP for the host-only adapter. Assigned **static IP addresses** to each VM within the subnet `192.168.56.0/24`. Verified communication across all systems using `ping`, `ipconfig`, and `ifconfig`. | Ensured consistency and avoided IP conflicts |  
+| Step | Description | Notes | Example Commands / Configurations |  
+|------|-------------|-------|-----------------------------------|  
+| **1. Virtualization Environment Setup** | Installed and configured Oracle VirtualBox on the host system. Established a dedicated **Host-Only Network** to ensure isolated communication between virtual machines without exposing them to the internet. | Applied virtualization and networking configuration knowledge | *VirtualBox Manager → File → Host Network Manager → Create Host-Only Network* |  
+| **2. Virtual Machine Provisioning** | Deployed Kali Linux, Metasploitable 2, bWAPP, and Windows 10 as guest virtual machines. Allocated system resources (CPU, memory, and storage) proportionate to host machine capacity. | Resource allocation was adjusted to balance performance and stability | *VM Settings → System → Base Memory / Processors* |  
+| **3. Internal Network Configuration** | Disabled DHCP services for the host-only adapter and manually assigned **static IP addresses** to each VM within the `192.168.56.0/24` subnet. | Prevented IP conflicts and ensured predictable addressing | **Linux (Kali):**  ```sudo nano /etc/network/interfaces``` <br> ```iface eth0 inet static``` <br> ```address 192.168.56.101``` <br> ```netmask 255.255.255.0``` <br> ```gateway 192.168.56.1``` |  
+| **4. External Network Connectivity** | Configured a secondary **NAT adapter** for Kali Linux to provide internet access for tools such as Burp Suite, while maintaining internal isolation for other VMs. | Dual-adapter setup preserved lab security and internet availability | ```ip route``` <br> Example output: <br> ```default via 10.0.3.2 dev eth1 proto dhcp src 10.0.3.15 metric 100``` |  
+| **5. Verification & Testing** | Validated connectivity across systems using `ping`, `ifconfig`, and `ipconfig`. Confirmed both intra-VM communication and Kali’s internet accessibility. | Ensured operational stability and correct configuration | ```ping 192.168.56.102``` <br> ```ping google.com``` |  
+
 
 ---
 
