@@ -58,11 +58,15 @@ The objective of this project was to design and configure a personal cybersecuri
 - **Challenges Faced**:  
   - Initially setting correct subnet masks and gateways for consistency.  
   - Conflict between DHCP/NetworkManager and static IP configuration (had to restart the Kali machine for changes to reflect).  
-  - Misconfigured routing: Host-Only adapter added a default gateway, which caused internet traffic issues until I removed it and let only NAT handle the gateway.  
+  - Misconfigured routing: Host-Only adapter added a default gateway, which caused internet traffic issues until I removed it and let only NAT handle the gateway.
+  - Windows Firewall blocked ICMP requests, which caused one-way ping (Kali → Windows failed, Windows → Kali worked). This was solved by enabling the **ICMP Echo Request (Inbound)** rule in Windows Defender Firewall.  
+ 
 
 - **Key Takeaway**:  
   - Static IP assignment is more reliable for multi-VM labs since it simplifies repeatability, documentation, and troubleshooting.  
-  - Always ensure **only one default gateway (via NAT)** for internet, while Host-Only remains strictly for internal lab traffic.  
+  - Always ensure **only one default gateway (via NAT)** for internet, while Host-Only remains strictly for internal lab traffic.
+  - The Windows ping failure showed me that sometimes connectivity issues can come from host firewalls that block traffic. In Windows, the **File and Printer Sharing (Echo Request – ICMPv4-In)** rule must be enabled to allow ping responses, **unless it’s a VM in a controlled lab, it’s best to keep firewalls enabled for security**.  
+
 
 ---
 You can find all the images for this project here
