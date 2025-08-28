@@ -19,7 +19,7 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
 ---
 
 ## 🛠 Skills & Related Projects  
-| Skill                                         | Associated Project |
+| Skill                                         | Associated Project/Lab |
 |-----------------------------------------------|--------------------|
 | **Setting-up-a-Multi-VM-Cybersecurity-Lab** | [Cybersecurity Home Lab Project](projects/Setting-up-a-Multi-VM-Cybersecurity-Lab/) |
 
@@ -59,7 +59,7 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects/Labs
 - **[Cybersecurity Home Lab Project](projects/Setting-up-a-Multi-VM-Cybersecurity-Lab/)** – Built a multi-VM VirtualBox lab for safe cybersecurity testing.  
 
 
