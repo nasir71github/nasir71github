@@ -54,8 +54,8 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
 
 ## 📜 Certifications 
 <div>
-[![Cisco Intro to Cybersecurity](https://img.shields.io/badge/Cisco-Intro_to_Cybersecurity-blue?logo=cisco)](https://your-certificate-link-here)  
-[![ISC2 CC Training](https://img.shields.io/badge/ISC²-Certified_in_Cybersecurity_Training-green?logo=ISC2)](https://your-certificate-link-here)
+    <img src="https://img.shields.io/badge/ISC²-Certified_in_Cybersecurity_Training-2E8B57?style=for-the-badge&logo=ISC2&logoColor=white" />
+
 </div>
 
 ---
