@@ -20,9 +20,9 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
 
 ## 🛠 Skills & Related Projects  
 | Skill                                         | Associated Project/Lab |
-|-----------------------------------------------|--------------------|
-| **Setting-up-a-Multi-VM-Cybersecurity-Lab** | [Cybersecurity Home Lab Project](projects/Setting-up-a-Multi-VM-Cybersecurity-Lab/) |
-
+|-----------------------------------------------|-----------------------|
+| **Setting-up-a-Multi-VM-Cybersecurity-Lab**  | [Cybersecurity Home Lab Project](projects/Setting-up-a-Multi-VM-Cybersecurity-Lab/) |
+| **Linux CLI, SSH, File Decoding & Networking** | [OverTheWire Bandit Progress](Labs,Challenges&CTF/OverTheWire-Bandit/README.md) |
 
 
 ---
