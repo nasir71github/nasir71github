@@ -17,7 +17,7 @@
 
 ## Proof of Work
 - **LinkedIn Post:** *(add your link here)*  
-- **Screenshots related to this lab can be found here:**  
+- **Screenshots related to this lab can be found [here](assets/images/overTheWire-Images/)**  
   - [Level 12 → 13 — multi-layer extraction](/assets/images/overTheWire-Images/level13.png)  
   - [Level 14 → 15 — using `nc` with password](assets/images/overTheWire-Images/level14.png)
     
