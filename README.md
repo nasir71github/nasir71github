@@ -62,7 +62,7 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
 
 ## 🚀 Featured Projects/Labs
 - **[Cybersecurity Home Lab Project](projects/Setting-up-a-Multi-VM-Cybersecurity-Lab/)** – Built a multi-VM VirtualBox lab for safe cybersecurity testing.  
-- **[OverTheWire Bandit Wargame Progress](Labs,challenges&CTF/OverTheWire-Bandit/)** -Completed Levels 1 → 15; practiced Linux CLI, SSH, file decoding, and networking (`nc`/`openssl`). Level 12 → 13 was particularly challenging.
+- **[OverTheWire Bandit Wargame Progress](Labs,Challenges&CTF/OverTheWire-Bandit/)** -Completed Levels 1 → 15; practiced Linux CLI, SSH, file decoding, and networking (`nc`/`openssl`). Level 12 → 13 was particularly challenging.
 
 
 
