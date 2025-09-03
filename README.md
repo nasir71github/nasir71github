@@ -39,7 +39,7 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
 ### **Operating Systems**
 <div>
     <img src="https://img.shields.io/badge/-Kali_Linux-268BEE?&style=for-the-badge&logo=kalilinux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows_10-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 ### **Programming & Scripting**
