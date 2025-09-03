@@ -19,7 +19,7 @@
 - **LinkedIn Post:** *(add your link here)*  
 - **Screenshots related to this lab can be found here:**  
   - [Level 12 → 13 — multi-layer extraction](/assets/images/overTheWireimages/level12.png)  
-  - [Level 14 → 15 — using `nc` with password](screenshots/level14.png)
+  - [Level 14 → 15 — using `nc` with password](assets/images/overTheWireimages/level14.png)
     
 ## Useful Commands I Practiced
 ```bash
