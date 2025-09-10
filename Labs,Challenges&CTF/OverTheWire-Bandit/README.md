@@ -1,4 +1,4 @@
-# OverTheWire — Bandit Progress
+# OverTheWire — Bandit Wargames
 
 **Completed Levels:** 1 → 34 (all finished 🎉)  
 
@@ -31,9 +31,9 @@
 - **Screenshots related to this lab can be found [here](../../assets/images/OverTheWire-Images/)**  
   - [Level 12 → 13 — multi-layer extraction](../../assets/images/OverTheWire-Images/level13.png)  
   - [Level 14 → 15 — using `nc` with password](../../assets/images/OverTheWire-Images/level14.png)  
-  - [Level 23 → 24 — cron job shell script](../../assets/images/OverTheWire-Images/level24.png)  
-  - [Level 25 → 26 — escaping restricted shell](../../assets/images/OverTheWire-Images/level26.png)  
-  - [Level 27+ — Git exploration](../../assets/images/OverTheWire-Images/level27.png)  
+  - [Level 23 → 24 — cron job shell script](../../assets/images/OverTheWire-Images/level23.png)  
+  - [Level 25 → 26 — escaping restricted shell](../../assets/images/OverTheWire-Images/smallscreen.png)  
+  - [Level 27+ — Git exploration](../../assets/images/OverTheWire-Images/level29.png)  
 
 ## Useful Commands I Practiced
 ```bash
