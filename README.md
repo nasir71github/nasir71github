@@ -22,8 +22,7 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
 | Skill                                         | Associated Project/Lab |
 |-----------------------------------------------|-----------------------|
 | **Setting-up-a-Multi-VM-Cybersecurity-Lab**  | [Cybersecurity Home Lab Project](projects/Setting-up-a-Multi-VM-Cybersecurity-Lab/) |
-| **Linux CLI, SSH, File Decoding & Networking** | [OverTheWire Bandit Progress](Labs,Challenges&CTF/OverTheWire-Bandit/README.md) |
-
+| **Linux CLI, SSH, File Decoding,Networking,git** | [OverTheWire Bandit Wargames](Labs,Challenges&CTF/OverTheWire-Bandit/README.md) |
 
 ---
 
@@ -47,14 +46,11 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/-C%2B%2B-00599C?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-
 </div>
 
 ---
 
 ## 📜 Certifications 
-
-
 [![ISC² CC Training](https://img.shields.io/badge/ISC%C2%B2-CC_Training_Completion-2E8B57?style=for-the-badge&logo=isc2&logoColor=white)](/assets/certificates/Official_CC_Course_Completion_Certificate_.pdf)
 [![Cisco Intro to Cybersecurity](https://img.shields.io/badge/Cisco-Intro_to_Cybersecurity-00599C?style=for-the-badge&logo=cisco&logoColor=white)](/assets/certificates/Introduction_to_Cybersecurity_certificate.pdf)
 [![Cisco Networking Basics](https://img.shields.io/badge/Cisco-Networking_Basics-FF6F00?style=for-the-badge&logo=cisco&logoColor=white)](/assets/certificates/NetworkingBasic.png)
@@ -63,10 +59,8 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
 
 ## 🚀 Featured Projects/Labs
 - **[Cybersecurity Home Lab Project](projects/Setting-up-a-Multi-VM-Cybersecurity-Lab/README.md)** – Built a multi-VM VirtualBox lab for safe cybersecurity testing.  
-- **[OverTheWire Bandit Wargame Progress](Labs,Challenges&CTF/OverTheWire-Bandit/README.md)** -Completed Levels 1 → 15; practiced Linux CLI, SSH, file decoding, and networking (`nc`/`openssl`). Level 12 → 13 was particularly challenging.
-
-
-
+- **[OverTheWire Bandit Wargame Progress](Labs,Challenges&CTF/OverTheWire-Bandit/README.md)** – Completed all **34 levels**. Practiced Linux CLI, SSH, file decoding, networking (`nc`/`openssl`), cron jobs, and Git challenges.  
+ 
 
 ---
 
