@@ -17,23 +17,28 @@
 - **Level 14 → 15**: Used `openssl`/`nc` to connect to a local SSL service and send the current password to retrieve the next one.  
 - **Level 23 → 24 (cron job scripting)**: Discovered a cron job running every minute. Created my first shell script that copied the Bandit24 password into `/tmp`. This level was a big milestone — my first real script execution in a capture-the-flag environment.  
 - **Level 25 → 26 (restricted shell bypass)**: Faced a tricky login with a custom shell (`/usr/bin/showtext`) that immediately logged me out. By resizing the terminal, I forced `more` into interactive mode, escaped into `vim`, and launched a real `/bin/bash` shell. Huge learning experience on escaping restricted environments.  
-- **Level 27 → 34 (Git mastery)**: The remaining levels focused on Git. I practiced:  
+- **Level 27 → 32 (Git mastery)**: The remaining levels focused on Git. I practiced:  
   - Cloning repos with SSH keys  
   - Exploring commit history (`git log`)  
-  - Checking hidden branches (`git branch -a`)  
+  - Checking hidden branches (`git branch -a`)
+  - Pushing to a remote repository (`git push origin master`)  
   - Reading commit diffs (`git show`)  
   - Inspecting tags (`git tag`, `git show <tag>`)  
   - Working with stashes (`git stash list`, `git stash show -p`)  
-  These challenges gave me strong hands-on Git experience beyond just version control basics.  
+  These challenges gave me strong hands-on Git experience beyond just version control basics.
+- **Level 32 → 33 (uppercase shell escape)**: On login, I was placed in a restricted shell that automatically converted all commands to uppercase, making them invalid. By executing `$0`, I spawned a proper `/bin/sh` shell, confirmed I was running as `bandit33`, and retrieved the password. This taught me how environment variables and shell behaviors can be leveraged to escape restrictions.  
+
 
 ## Proof of Work
-- **LinkedIn Post:** *(add your link here)*  
+- **LinkedIn Post:** *(link here)*  
 - **Screenshots related to this lab can be found [here](../../assets/images/OverTheWire-Images/)**  
   - [Level 12 → 13 — multi-layer extraction](../../assets/images/OverTheWire-Images/level13.png)  
   - [Level 14 → 15 — using `nc` with password](../../assets/images/OverTheWire-Images/level14.png)  
   - [Level 23 → 24 — cron job shell script](../../assets/images/OverTheWire-Images/level23.png)  
   - [Level 25 → 26 — escaping restricted shell](../../assets/images/OverTheWire-Images/smallscreen.png)  
-  - [Level 27+ — Git exploration](../../assets/images/OverTheWire-Images/level29.png)  
+  - [Level 27 → 31 Git exploration](../../assets/images/OverTheWire-Images/level29.png)
+  - [Level 32 → 33 uppercase shell escape](../../assets/images/OverTheWire-Images/level33.png)  
+
 
 ## Useful Commands I Practiced
 ```bash
@@ -72,6 +77,11 @@ git branch -a
 git show <commit/tag>
 git stash list
 git stash show -p
+
+# Shell path bypass (Bandit 32 → 33)
+$0
+ls -la
+cat /etc/bandit_pass/bandit33
 ```
 ## Final Reflection
 Finishing the Bandit wargame (Levels 1 → 34) was a huge step in my cybersecurity journey. The progression forced me to:  
