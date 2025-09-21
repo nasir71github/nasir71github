@@ -22,8 +22,8 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
 | Skill                                         | Associated Project/Lab |
 |-----------------------------------------------|-----------------------|
 | **Setting-up-a-Multi-VM-Cybersecurity-Lab**  | [Cybersecurity Home Lab Project](projects/Setting-up-a-Multi-VM-Cybersecurity-Lab/) |
-| **Linux CLI, SSH, File Decoding, Networking, Git** | [OverTheWire Bandit Wargames](Labs,Challenges&CTF/OverTheWire-Bandit/README.md) |
-| **Vulnerability Scanning & Reporting (Nessus)** | [Lab Vulnerability Scans](projects/Vulnerability_scanning_and_assessment/README.md) |
+| **Linux CLI, SSH, File Decoding, Networking, Git** | [OverTheWire Bandit Wargames](Labs,Challenges&CTF/OverTheWire-Bandit/) |
+| **Vulnerability Scanning & Reporting (Nessus)** | [Lab Vulnerability Scans](projects/Vulnerability_scanning_and_assessment/) |
 
 ---
 
@@ -63,8 +63,8 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
 
 ## 🚀 Featured Projects/Labs
 - **[Cybersecurity Home Lab Project](projects/Setting-up-a-Multi-VM-Cybersecurity-Lab/README.md)** – Built a multi-VM VirtualBox lab for safe cybersecurity testing.  
-- **[OverTheWire Bandit Wargame Progress](Labs,Challenges&CTF/OverTheWire-Bandit/README.md)** – Completed all **34 levels**. Practiced Linux CLI, SSH, file decoding, networking (`nc`/`openssl`), cron jobs, and Git challenges.  
-- **[Vulnerability Scanning and Assessment](./projects/Vulnerability_scanning_and_assessment/README.md)** – Performed **Basic Network Scan** across 3 VMs and a **Credentialed Windows 10 Scan** using Nessus. Documented findings, severity breakdown, and remediation plans in structured markdown reports.  
+- **[OverTheWire Bandit Wargame Progress](Labs,Challenges&CTF/OverTheWire-Bandit/)** – Completed all **34 levels**. Practiced Linux CLI, SSH, file decoding, networking (`nc`/`openssl`), cron jobs, and Git challenges.  
+- **[Vulnerability Scanning and Assessment](./projects/Vulnerability_scanning_and_assessment/)** – Performed **Basic Network Scan** across 3 VMs and a **Credentialed Windows 10 Scan** using Nessus. Documented findings, severity breakdown, and remediation plans in structured markdown reports.  
 
 ---
 
