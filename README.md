@@ -23,7 +23,7 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
 |-----------------------------------------------|-----------------------|
 | **Setting-up-a-Multi-VM-Cybersecurity-Lab**  | [Cybersecurity Home Lab Project](projects/Setting-up-a-Multi-VM-Cybersecurity-Lab/) |
 | **Linux CLI, SSH, File Decoding, Networking, Git** | [OverTheWire Bandit Wargames](Labs,Challenges&CTF/OverTheWire-Bandit/README.md) |
-| **Vulnerability Scanning & Reporting (Nessus)** | [Lab Vulnerability Scans](projects/Vulnerability-Scanning/README.md) |
+| **Vulnerability Scanning & Reporting (Nessus)** | [Lab Vulnerability Scans](projects/Vulnerability%canning%and%assessment/README.md) |
 
 ---
 
@@ -64,7 +64,7 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
 ## 🚀 Featured Projects/Labs
 - **[Cybersecurity Home Lab Project](projects/Setting-up-a-Multi-VM-Cybersecurity-Lab/README.md)** – Built a multi-VM VirtualBox lab for safe cybersecurity testing.  
 - **[OverTheWire Bandit Wargame Progress](Labs,Challenges&CTF/OverTheWire-Bandit/README.md)** – Completed all **34 levels**. Practiced Linux CLI, SSH, file decoding, networking (`nc`/`openssl`), cron jobs, and Git challenges.  
-- **[Vulnerability Scanning Project](projects/Vulnerability-Scanning/README.md)** – Performed **Basic Network Scan** across 3 VMs and a **Credentialed Windows 10 Scan** using Nessus. Documented findings, severity breakdown, and remediation plans in structured markdown reports.  
+- **[Vulnerability Scanning Project](projects/Vulnerability%scanning%and%assessment/README.md)** – Performed **Basic Network Scan** across 3 VMs and a **Credentialed Windows 10 Scan** using Nessus. Documented findings, severity breakdown, and remediation plans in structured markdown reports.  
 
 ---
 
