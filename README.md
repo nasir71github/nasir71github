@@ -23,7 +23,7 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
 |-----------------------------------------------|-----------------------|
 | **Setting-up-a-Multi-VM-Cybersecurity-Lab**  | [Cybersecurity Home Lab Project](projects/Setting-up-a-Multi-VM-Cybersecurity-Lab/) |
 | **Linux CLI, SSH, File Decoding, Networking, Git** | [OverTheWire Bandit Wargames](Labs,Challenges&CTF/OverTheWire-Bandit/README.md) |
-| **Vulnerability Scanning & Reporting (Nessus)** | [Lab Vulnerability Scans](./projects/Vulnerability%canning%and%assessment/README.md) |
+| **Vulnerability Scanning & Reporting (Nessus)** | [Lab Vulnerability Scans](projects/Vulnerability%scanning%and%assessment/README.md) |
 
 ---
 
