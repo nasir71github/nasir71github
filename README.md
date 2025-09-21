@@ -22,7 +22,8 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
 | Skill                                         | Associated Project/Lab |
 |-----------------------------------------------|-----------------------|
 | **Setting-up-a-Multi-VM-Cybersecurity-Lab**  | [Cybersecurity Home Lab Project](projects/Setting-up-a-Multi-VM-Cybersecurity-Lab/) |
-| **Linux CLI, SSH, File Decoding,Networking,git** | [OverTheWire Bandit Wargames](Labs,Challenges&CTF/OverTheWire-Bandit/README.md) |
+| **Linux CLI, SSH, File Decoding, Networking, Git** | [OverTheWire Bandit Wargames](Labs,Challenges&CTF/OverTheWire-Bandit/README.md) |
+| **Vulnerability Scanning & Reporting (Nessus)** | [Lab Vulnerability Scans](projects/Vulnerability-Scanning/README.md) |
 
 ---
 
@@ -33,6 +34,7 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
     <img src="https://img.shields.io/badge/-Nmap-2F5C9F?&style=for-the-badge&logo=nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp_Suite-FF6F00?&style=for-the-badge&logo=burp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-5C2D91?&style=for-the-badge&logo=tenable&logoColor=white" />
 </div>
 
 ### **Operating Systems**
@@ -62,7 +64,7 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
 ## 🚀 Featured Projects/Labs
 - **[Cybersecurity Home Lab Project](projects/Setting-up-a-Multi-VM-Cybersecurity-Lab/README.md)** – Built a multi-VM VirtualBox lab for safe cybersecurity testing.  
 - **[OverTheWire Bandit Wargame Progress](Labs,Challenges&CTF/OverTheWire-Bandit/README.md)** – Completed all **34 levels**. Practiced Linux CLI, SSH, file decoding, networking (`nc`/`openssl`), cron jobs, and Git challenges.  
- 
+- **[Vulnerability Scanning Project](projects/Vulnerability-Scanning/README.md)** – Performed **Basic Network Scan** across 3 VMs and a **Credentialed Windows 10 Scan** using Nessus. Documented findings, severity breakdown, and remediation plans in structured markdown reports.  
 
 ---
 
