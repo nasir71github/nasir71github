@@ -52,12 +52,12 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
 
 ---
 ## 📜 Certifications 
-[![ISC² CC Training](https://img.shields.io/badge/ISC%C2%B2-CC_Training_Completion-2E8B57?style=for-the-badge&logo=isc2&logoColor=white)](/assets/certificates/Official_CC_Course_Completion_Certificate_.pdf)
-[![Cisco Intro to Cybersecurity](https://img.shields.io/badge/Cisco-Intro_to_Cybersecurity-00599C?style=for-the-badge&logo=cisco&logoColor=white)](/assets/certificates/Introduction_to_Cybersecurity_certificate.pdf)
-[![Cisco Networking Basics](https://img.shields.io/badge/Cisco-Networking_Basics-FF6F00?style=for-the-badge&logo=cisco&logoColor=white)](/assets/certificates/NetworkingBasic.png)
-[![Cisco Networking Devices & Initial Configuration](https://img.shields.io/badge/Cisco-Networking_Devices_&_Initial_Config-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](/assets/certificates/Networking_Devices.pdf)
-[![Google Foundations of Cybersecurity](https://img.shields.io/badge/Google-Foundations_of_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](/assets/certificates/Google_Foundations_of_Cybersecurity.pdf)
-
+[![ISC² CC Training](https://img.shields.io/badge/ISC%C2%B2-CC_Training_Completion-2E8B57?style=for-the-badge&logo=isc2&logoColor=white)](/assets/certificates/Official_CC_Course_Completion_Certificate_.pdf)  
+[![Cisco Intro to Cybersecurity](https://img.shields.io/badge/Cisco-Intro_to_Cybersecurity-00599C?style=for-the-badge&logo=cisco&logoColor=white)](/assets/certificates/Introduction_to_Cybersecurity_certificate.pdf)  
+[![Cisco Networking Basics](https://img.shields.io/badge/Cisco-Networking_Basics-FF6F00?style=for-the-badge&logo=cisco&logoColor=white)](/assets/certificates/NetworkingBasic.png)  
+[![Cisco Networking Devices & Initial Configuration](https://img.shields.io/badge/Cisco-Networking_Devices_&_Initial_Config-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](/assets/certificates/Networking_Devices.pdf)  
+[![Cisco Endpoint Security](https://img.shields.io/badge/Cisco-Endpoint_Security-DA291C?style=for-the-badge&logo=cisco&logoColor=white)](/assets/certificates/Endpoint_Security_certificate.pdf)  
+[![Google Foundations of Cybersecurity](https://img.shields.io/badge/Google-Foundations_of_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](/assets/certificates/Google_Foundations_of_Cybersecurity.pdf)  
 
 ---
 
