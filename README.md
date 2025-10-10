@@ -81,7 +81,9 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
 ## 🚀 Featured Projects/Labs
 - **[Cybersecurity Home Lab Project](projects/Setting-up-a-Multi-VM-Cybersecurity-Lab/README.md)** – Built a multi-VM VirtualBox lab for safe cybersecurity testing.  
 - **[OverTheWire Bandit Wargame Progress](Labs,Challenges&CTF/OverTheWire-Bandit/README.md)** – Completed all **34 levels**. Practiced Linux CLI, SSH, file decoding, networking (`nc`/`openssl`), cron jobs, and Git challenges.  
-- **[Vulnerability Scanning and Assessment](./projects/Vulnerability_scanning_and_assessment/)** – Performed **Basic Network Scan** across 3 VMs and a **Credentialed Windows 10 Scan** using Nessus. Documented findings, severity breakdown, and remediation plans in structured markdown reports.  
+- **[Vulnerability Scanning and Assessment](./projects/Vulnerability_scanning_and_assessment/)** – Performed **Basic Network Scan** across 3 VMs and a **Credentialed Windows 10 Scan** using Nessus. Documented findings, severity breakdown, and remediation plans in structured markdown reports.
+- **[Malware Analysis ](projects/Malware_Analysis/README.md)** – Performed both **static and dynamic** analysis of a suspicious Windows executable using REMnux, PEStudio, ProcMon, Wireshark, INetSim etc to uncover behavior, network indicators, and system modifications.
+
 
 ---
 
