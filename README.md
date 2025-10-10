@@ -30,27 +30,41 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
 
 ---
 
-## 🔧 Tools
+## 🧰 Technical Toolkit  
 
-### **Network & Analysis**
+### 🧪 **Malware Analysis & Forensics**
 <div>
-    <img src="https://img.shields.io/badge/-Nmap-2F5C9F?&style=for-the-badge&logo=nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp_Suite-FF6F00?&style=for-the-badge&logo=burp&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-5C2D91?&style=for-the-badge&logo=tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PEStudio-6A1B9A?style=for-the-badge&logo=windowsterminal&logoColor=white" title="Static analysis of PE files" />
+    <img src="https://img.shields.io/badge/-Detect--It--Easy-FF8C00?style=for-the-badge&logo=files&logoColor=white" title="File type identification and packer detection" />
+    <img src="https://img.shields.io/badge/-Process_Explorer-0078D6?style=for-the-badge&logo=windows&logoColor=white" title="Process inspection and behavior monitoring" />
+    <img src="https://img.shields.io/badge/-ProcMon-00457C?style=for-the-badge&logo=microsoft&logoColor=white" title="Registry and filesystem activity logging" />
+    <img src="https://img.shields.io/badge/-Regshot-00897B?style=for-the-badge&logo=registry&logoColor=white" title="Registry snapshot comparison" />
+    <img src="https://img.shields.io/badge/-CyberChef-2B7A78?style=for-the-badge&logo=codesandbox&logoColor=white" title="Deobfuscation, decoding, and data analysis" />
+    <img src="https://img.shields.io/badge/-INetSim-4CAF50?style=for-the-badge&logo=linux&logoColor=white" title="Simulated internet services for malware analysis" />
+    <img src="https://img.shields.io/badge/-VirusTotal-FF0000?style=for-the-badge&logo=virustotal&logoColor=white" title="Threat intelligence and malware scanning" />
 </div>
 
-### **Operating Systems**
+### 🌐 **Network & Analysis**
 <div>
-    <img src="https://img.shields.io/badge/-Kali_Linux-268BEE?&style=for-the-badge&logo=kalilinux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" title="Packet capture and network traffic analysis" />
+    <img src="https://img.shields.io/badge/-Nmap-2F5C9F?style=for-the-badge&logo=nmap&logoColor=white" title="Network discovery and vulnerability scanning" />
+    <img src="https://img.shields.io/badge/-Burp_Suite-FF6F00?style=for-the-badge&logo=burp&logoColor=white" title="Web application security testing" />
+    <img src="https://img.shields.io/badge/-Nessus-5C2D91?style=for-the-badge&logo=tenable&logoColor=white" title="Vulnerability assessment and reporting" />
 </div>
 
-### **Programming & Scripting**
+### 💻 **Operating Systems**
 <div>
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/-C%2B%2B-00599C?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/-REMnux-4A8C2E?style=for-the-badge&logo=linux&logoColor=white" title="Linux distribution for malware analysis" />
+    <img src="https://img.shields.io/badge/-FLARE_VM-FF4500?style=for-the-badge&logo=windows&logoColor=white" title="Windows reverse engineering and malware analysis environment" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" title="Penetration testing and offensive security OS" />
+    <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" title="Windows OS analysis and lab setup" />
+</div>
+
+### 🧠 **Programming & Scripting**
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Scripting, automation, and data analysis" />
+    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Software development and problem solving" />
+    <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="System programming and algorithms" />
 </div>
 
 ---
