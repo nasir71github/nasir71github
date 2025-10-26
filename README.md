@@ -74,7 +74,9 @@ My goal is to grow into a **penetration tester or SOC analyst** role in the near
 [![Cisco Networking Basics](https://img.shields.io/badge/Cisco-Networking_Basics-FF6F00?style=for-the-badge&logo=cisco&logoColor=white)](/assets/certificates/NetworkingBasic.png)  
 [![Cisco Networking Devices & Initial Configuration](https://img.shields.io/badge/Cisco-Networking_Devices_&_Initial_Config-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](/assets/certificates/Networking_Devices.pdf)  
 [![Cisco Endpoint Security](https://img.shields.io/badge/Cisco-Endpoint_Security-DA291C?style=for-the-badge&logo=cisco&logoColor=white)](/assets/certificates/Endpoint_Security_certificate.pdf)  
+[![Cisco Network Defense](https://img.shields.io/badge/Cisco-Network_Defense-0078D7?style=for-the-badge&logo=cisco&logoColor=white)](/assets/certificates/Network_Defense_certificate.pdf)  
 [![Google Foundations of Cybersecurity](https://img.shields.io/badge/Google-Foundations_of_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](/assets/certificates/Google_Foundations_of_Cybersecurity.pdf)  
+
 
 ---
 
